@@ -1,12 +1,12 @@
 # Recommender-Systems
 
-This is the basic recommender systems built using Boltzmann machines. Which is recommend movies to a user based on his/her past history.
+This is the basic recommender systems built using AutoEncoders. Which is recommend movies to a user based on his/her past history.
 
 # Code Requirements
 The code is in Python (version 3.6 or higher). You also need to install Pytorch library.
 
 # Description
-We will work on a dataset that has exactly the same features as the Netflix dataset: plenty of movies, thousands of users, who have rated the movies they watched. The ratings go from 1 to 5, exactly like in the Netflix dataset, which makes the Recommender System more complex to build than if the ratings were simply “Liked” or “Not Liked”. 
+We will work on a dataset that has exactly the same features as the Netflix dataset: plenty of movies, thousands of users, who have rated the movies they watched. The ratings go from 1 to 5, exactly like in the Netflix dataset, which makes the Recommender System more complex to build.
 
 our final Recommender System will be able to predict the ratings of the movies the customers didn’t watch. Accordingly, by ranking the predictions from 5 down to 1, our Deep Learning model will be able to recommend which movies each user should watch.
  
