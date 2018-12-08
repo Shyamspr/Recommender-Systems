@@ -1,4 +1,4 @@
-# Recommender-Systems [![](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/Shyamspr/Recommender-Systems/blob/master/LICENSE.txt)
+# Recommender-Systems [![](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/Shyamspr/Recommender-Systems/blob/master/LICENSE)
 
 This is the recommender systems built using AutoEncoders, recommends movies to a user.
 
