@@ -1,4 +1,4 @@
-# Recommender-Systems
+# Recommender-Systems [![](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/Shyamspr/Recommender-Systems/blob/master/LICENSE.txt)
 
 This is the basic recommender systems built using AutoEncoders. Which is recommend movies to a user based on his/her past history.
 
