@@ -1,6 +1,6 @@
 # Recommender-Systems [![](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/Shyamspr/Recommender-Systems/blob/master/LICENSE.txt)
 
-This is the basic recommender systems built using AutoEncoders. Which is recommend movies to a user based on his/her past history.
+This is the recommender systems built using AutoEncoders. Which is recommend movies to a user.
 
 # Code Requirements
 The code is in Python (version 3.6 or higher). You also need to install Pytorch library.
